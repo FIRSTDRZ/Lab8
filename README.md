@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: นาย นสพงษ์ ทิพย์วงค์
+# STUDENT ID: 670610711
